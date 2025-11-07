@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    background: linear-gradient(270deg, red,blue,yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.card{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: 0px 0px 20px black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.imgBlok{
+    width: 230px;
+
+}
+.content{
+    width: 250px;
+     
+    height: 80%;
+}
+img{
+    width: 100%;
+
+}
+audio{
+    width: 80%;
+}
